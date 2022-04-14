@@ -54,6 +54,6 @@ Follow instrunction [here](https://supabase.io/docs/guides/auth/auth-github)
 
 # Demo
 
-[https://random-chat.netlify.app](https://random-chat.netlify.app/)
+[https://ground-cover-mapper.netlify.app](https://ground-cover-mapper.netlify.app/)
 
 !['demo'](https://random-chat.netlify.app/demo.png "demo")
